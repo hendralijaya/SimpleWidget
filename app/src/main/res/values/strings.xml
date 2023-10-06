@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SimpleWidget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="number_celcius">14°</string>
+    <string name="number_celcius_max">16°</string>
+    <string name="number_celcius_low">10°</string>
+    <string name="town">Tokyo</string>
+    <string name="indicator">Sunny</string>
+    <string name="estimate_celcius_4pm">13°</string>
+    <string name="estimate_celcius_5pm">14°</string>
+    <string name="estimate_celcius_6pm">12°</string>
+    <string name="estimate_celcius_7pm">11°</string>
+    <string name="estimate_text_4pm">4pm</string>
+    <string name="estimate_text_5pm">5pm</string>
+    <string name="estimate_text_6pm">6pm</string>
+    <string name="estimate_text_7pm">7pm</string>
+    <string name="day_one">Tuesday</string>
+    <string name="day_two">Wednesday</string>
+    <string name="day_three">Thursday</string>
+</resources>
