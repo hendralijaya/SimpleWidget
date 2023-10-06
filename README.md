@@ -1,2 +1,2 @@
 ﻿# SimpleWidget
- <img src="https://github.com/hendralijaya/SimpleWidget/blob/main/app/src/main/res/drawable/simple-widget.jpg" width="400" height="700">
+ <img src="https://github.com/hendralijaya/SimpleWidget/blob/main/app/src/main/res/drawable/simple-widget.jpg" width="200" height="700">
